@@ -1,0 +1,8 @@
+[1]
+<<<
+Estás numa sala escura. Há uma porta à direita.
+>>>
+***
++ 2. Abrir a porta
++ 3. Esperar
+***
